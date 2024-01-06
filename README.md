@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=703ee5&height=300&section=header&text=도전하는%20개발자&fontSize=90)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SunHo%20Youn&fontAlign=80&fontAlignY=40&color=gradient)
 <!--
 **shyoun94/shyoun94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
